@@ -1,0 +1,10 @@
+                 Test case(www.Npractice.com)
+
+IDEA: Testing field "Login"
+Title: www.Npractice.com 
+
+Pre-condition: Launch resource www.Npractice.com
+
+Steps:
+
+1. Click the field L
